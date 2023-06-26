@@ -17,7 +17,10 @@ export default function Navbar() {
         
       </div>
       <div className={showMenu ? "topnav active" : "topnav"}>
+<<<<<<< HEAD
+=======
         {/* //just adding a comment */}
+>>>>>>> 37422ca3e10dc71d3bc8601b50999d08ae552956
         <div className="navbar">
           <ul>
             <li>
