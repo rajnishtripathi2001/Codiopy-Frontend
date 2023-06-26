@@ -23,10 +23,10 @@ export default function Navbar() {
               <a href="#1">Home</a>
             </li>
             <li>
-              <a href="#2">Services</a>
+              <a href="#2">Our Services</a>
             </li>
             <li>
-              <a href="#3">About Us</a>
+              <a href="#3">Our Team</a>
             </li>
             <li>
               <a href="#4">Contact</a>
