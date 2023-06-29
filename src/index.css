@@ -19,6 +19,4 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
-p{
-  @apply bg-yellow-400 mt-80 w-10 h-20;
-}
+
