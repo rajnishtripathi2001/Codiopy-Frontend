@@ -1,0 +1,6 @@
+.members-sec{
+    @apply w-screen grid grid-cols-3 gap-20 justify-center py-12 px-10 h-[100vh] ;
+    background-color: #141414;
+    
+    
+}

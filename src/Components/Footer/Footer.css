@@ -1,5 +1,5 @@
 .footer{
-    @apply bg-black text-white pl-20 pr-20 pt-10 pb-10
+    @apply bg-black text-white pl-20 pr-20 pt-10 pb-10 w-[100%]
 }
 
 .footer h2{
