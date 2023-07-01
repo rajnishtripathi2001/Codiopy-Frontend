@@ -1,0 +1,47 @@
+.footer{
+    @apply bg-black text-white pl-20 pr-20 pt-10 pb-10
+}
+
+.footer h2{
+    @apply  text-yellow-300 text-[1.5vw] mb-3
+}
+
+.footer h3{
+    @apply text-[1.2vw] mb-5 mt-16
+}
+
+.footer-upper{
+    @apply flex flex-1 justify-between 
+}
+
+.footer-left, .footer-center, .footer-right{
+    width: 33%;
+}
+
+.footer-left-top{
+    @apply mb-5
+}
+
+.footer-left-top h4{
+    @apply text-2xl
+}
+
+.footer-left-top p{
+    @apply text-sm
+}
+
+.footer-left-bottom p{
+    @apply w-4/6 text-sm mb-7
+}
+
+#contact-source{
+    @apply mb-0
+}
+
+.btn-subscribe{
+    @apply bg-yellow-400 text-white text-[1vw] font-medium px-5 py-2 rounded-md mt-4
+}
+
+.footer-lower{
+    @apply flex flex-1 justify-between m-auto w-[20%] text-5xl text-yellow-400
+}

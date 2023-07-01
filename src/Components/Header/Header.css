@@ -1,44 +1,36 @@
 .header {
-  @apply w-[100vw] h-[98vh] p-0 bg-[url("../../../public/Hero.png")] bg-cover;
+  @apply w-[100vw] h-[100vh] p-0 bg-[url("../../../public/Hero.png")] bg-cover;
 }
-.hero-upper{
-  @apply flex flex-row 
+.hero-upper {
+  @apply flex flex-row;
 }
-
-.left{
-    @apply text-[whitesmoke] w-[55%] mt-20 ml-20 mr-20 text-[5vw] ;
+.left {
+  @apply text-[whitesmoke] w-[55%] mt-20 ml-20 mr-20 text-[5vw];
 }
-
-.left img{
-  @apply w-16
+.left img {
+  @apply w-16;
 }
-
-.left p{
-  @apply text-[#9b9b9b] text-[1.5vw] mt-7 
+.left p {
+  @apply text-[#9b9b9b] text-[1.5vw] mt-7;
 }
-
-
-.hero-down{
-  @apply h-[12vw] ml-20 mr-20 flex flex-row w-[60%] pt-10 text-white
+.hero-down {
+  @apply h-[12vw] ml-20 mr-20 flex flex-row w-[60%] pt-10 text-white;
 }
-
-.hero-down-tag{
-  @apply w-[25%] text-[1.8vw] uppercase pt-5
+.hero-down-tag {
+  @apply w-[25%] text-[1.8vw] uppercase pt-5;
 }
-.hero-down-rating{
-  @apply w-[25%] pt-5
+.hero-down-rating {
+  @apply w-[25%] pt-5;
 }
-.hero-down-base-price{
-  @apply w-[25%] pt-5
+.hero-down-base-price {
+  @apply w-[25%] pt-5;
 }
-.hero-down-total-order{
-  @apply w-[25%] pt-5
+.hero-down-total-order {
+  @apply w-[25%] pt-5;
 }
-
-.hero-down b{
-  @apply text-[2vw]
+.hero-down b {
+  @apply text-[2vw];
 }
-
-.hero-down p{
-  @apply text-[0.9vw]
+.hero-down p {
+  @apply text-[0.9vw];
 }
