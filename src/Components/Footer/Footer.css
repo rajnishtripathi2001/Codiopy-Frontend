@@ -45,3 +45,7 @@
 .footer-lower{
     @apply flex flex-1 justify-between m-auto w-[20%] text-5xl text-yellow-400
 }
+
+.crs{
+    @apply text-[1vw] text-yellow-400 font-light
+}

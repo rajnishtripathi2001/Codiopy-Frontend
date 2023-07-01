@@ -53,8 +53,8 @@ export default function Footer() {
         <FaGooglePlus/>
         <FaTwitter/>
         <FaInstagram/>
-
       </div>
+      <p className="crs">2023 © Copyright Codiopy. All Rights Reserved </p>
     </div>
   );
 }
