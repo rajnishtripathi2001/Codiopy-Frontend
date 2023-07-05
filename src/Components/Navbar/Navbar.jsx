@@ -19,7 +19,6 @@ export default function Navbar() {
       <div className={showMenu ? "topnav active" : "topnav"}>
 
         {/* //just adding a comment */}
-
         <div className="navbar">
           <ul>
             <li>
@@ -32,7 +31,10 @@ export default function Navbar() {
               <a href="#3">Our Team</a>
             </li>
             <li>
-              <a href="#4">Contact</a>
+              <a href="#4">Blogs</a>
+            </li>
+            <li>
+              <a href="#5">Contact</a>
             </li>
           </ul>
         </div>
